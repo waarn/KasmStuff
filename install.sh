@@ -22,5 +22,5 @@ else
   echo Chrome already installed
 fi
 
-install_chrome_extension "cfhdojbkjhnklbpkdaibdccddilifddb" "adblock plus"
-install_chrome_extension "cmedhionkhpnakcndndgjdbohmhepckk" "react dev tools"
+install_chrome_extension "gighmmpiobklfepjocnamgkkbiglidom" "adblock"
+install_chrome_extension "cmedhionkhpnakcndndgjdbohmhepckk" "adblock youtube"
