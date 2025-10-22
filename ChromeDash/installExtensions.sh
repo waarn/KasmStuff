@@ -23,5 +23,5 @@ else
 fi
 
 install_chrome_extension "ddkjiahejlhfcafbddmgiahcphecmpfh" "ublock orgin lite"
-install_chrome_extension "cmedhionkhpnakcndndgjdbohmhepckk" "adblock youtube"
+# install_chrome_extension "cmedhionkhpnakcndndgjdbohmhepckk" "adblock youtube"
 install_chrome_extension "hkgfoiooedgoejojocmhlaklaeopbecg" "pip"
