@@ -1,10 +1,10 @@
 {
     "BookmarkBarEnabled": true,
-    "ManagedBookmarks": [
-    {
-      "toplevel_name": "Company Bookmarks"
-    },
-    {
+    "ManagedBookmarks":[
+        {
+            "toplevel_name":"Managed Bookmarks"
+        },
+        {
       "name": "Google",
       "url": "https://www.google.com"
     },
@@ -24,5 +24,5 @@
       "name": "GitHub",
       "url": "https://www.github.com"
     }
-  ]
+    ]
 }
