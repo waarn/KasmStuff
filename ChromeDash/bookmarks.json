@@ -1,13 +1,28 @@
 {
     "BookmarkBarEnabled": true,
-    "ManagedBookmarks":[
-      {
-        "name": "Google",
-        "url": "https://www.google.com"
-      },
-      {
-        "name": "YouTube",
-        "url": "https://www.youtube.com"
-      }
-    ]
+    "ManagedBookmarks": [
+    {
+      "toplevel_name": "Company Bookmarks"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://music.youtube.com"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://www.github.com"
+    }
+  ]
 }
