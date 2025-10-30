@@ -1,0 +1,7 @@
+{
+    "ExtensionSettings": {
+        "*": {
+            "installation_mode": "blocked"
+        }
+    }
+}
