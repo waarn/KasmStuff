@@ -1,29 +1,13 @@
 {
     "BookmarkBarEnabled": true,
     "ManagedBookmarks":[
-        {
-            "toplevel_name":"Managed Bookmarks"
-        },
-        {
-            "name":"Google",
-            "url":"google.com"
-        },
-        {
-            "name":"Youtube",
-            "url":"youtube.com"
-        },
-        {
-            "name":"Chrome links",
-            "children":[
-                {
-                    "name":"Chromium",
-                    "url":"chromium.org"
-                },
-                {
-                    "name":"Chromium Developers",
-                    "url":"dev.chromium.org"
-                }
-            ]
-        }
+      {
+        "name": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com"
+      }
     ]
 }
