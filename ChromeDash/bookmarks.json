@@ -5,6 +5,10 @@
       "toplevel_name": "Company Bookmarks"
     },
     {
+      "name": "Heimdall",
+      "url": "http://192.168.51.34:7990"
+    },
+    {
       "name": "Google",
       "url": "https://www.google.com"
     },
