@@ -1,10 +1,10 @@
 {
     "BookmarkBarEnabled": true,
-    "ManagedBookmarks":[
-        {
-            "toplevel_name":"Managed Bookmarks"
-        },
-        {
+    "ManagedBookmarks": [
+    {
+      "toplevel_name": "Company Bookmarks"
+    },
+    {
       "name": "Google",
       "url": "https://www.google.com"
     },
@@ -24,9 +24,5 @@
       "name": "GitHub",
       "url": "https://www.github.com"
     }
-    {
-      "name": "Heimdall",
-      "url": "http://192.168.51.33:7990"
-    }
-    ]
+  ]
 }
