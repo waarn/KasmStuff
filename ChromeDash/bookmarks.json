@@ -24,5 +24,9 @@
       "name": "GitHub",
       "url": "https://www.github.com"
     }
+    {
+      "name": "Heimdall",
+      "url": "http://192.168.51.33:7990"
+    }
     ]
 }
